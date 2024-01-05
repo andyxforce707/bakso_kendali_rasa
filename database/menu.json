@@ -1,0 +1,214 @@
+{
+  "makanan": [
+    {
+      "id_jenis": "makanan",
+      "id": 0,
+      "nama": "bakso",
+      "harga": 15000,
+      "gambar": "asset/bakso1.jpg",
+      "keterangan": "Spesial Bakso Kendali Rasa Original"
+    },
+    {
+      "id_jenis": "makanan",
+      "id": 1,
+      "nama": "mie ayam",
+      "harga": 12000,
+      "gambar": "asset/mieayam1.jpg",
+      "keterangan": "Spesial Mie Ayam Kendali Rasa Original"
+    },
+    {
+      "id_jenis": "makanan",
+      "id": 2,
+      "nama": "mie ayam bakso",
+      "harga": 17000,
+      "gambar": "asset/mieayambakso1.jpg",
+      "keterangan": "Spesial Mie Ayam Bakso Kendali Rasa Original"
+    },
+    {
+      "id_jenis": "makanan",
+      "id": 3,
+      "nama": "mie ago hotplate",
+      "harga": 15000,
+      "gambar": "asset/mieayamhotplate1.jpg",
+      "keterangan": "Spesial Mie Ago Hotplate Kendali Rasa Original"
+    },
+    {
+      "id_jenis": "makanan",
+      "id": 4,
+      "nama": "mie ago",
+      "harga": 15000,
+      "gambar": "asset/mieayamhotplate1.jpg",
+      "keterangan": "Spesial Mie Ago Kendali Rasa Original"
+    },
+    {
+      "id_jenis": "makanan",
+      "id": 5,
+      "nama": "mie ago sarimi hotplate",
+      "harga": 17000,
+      "gambar": "asset/mieayamhotplate1.jpg",
+      "keterangan": "Spesial Mie Ago Sarimi Hotplate Kendali Rasa Original"
+    },
+    {
+      "id_jenis": "makanan",
+      "id": 6,
+      "nama": "mie ago sarimi",
+      "harga": 17000,
+      "gambar": "asset/mieayamhotplate1.jpg",
+      "keterangan": "Spesial Mie Ago Sarimi Kendali Rasa Original"
+    },
+    {
+      "id_jenis": "makanan",
+      "id": 7,
+      "nama": "mie ago ceker",
+      "harga": 20000,
+      "gambar": "asset/mieayamhotplate1.jpg",
+      "keterangan": "Spesial Mie Ago Ceker Kendali Rasa Original"
+    },
+    {
+      "id_jenis": "makanan",
+      "id": 8,
+      "nama": "mie ago kikil",
+      "harga": 25000,
+      "gambar": "asset/mieayamhotplate1.jpg",
+      "keterangan": "Spesial Mie Ago Kikil Kendali Rasa Original"
+    },
+    {
+      "id_jenis": "makanan",
+      "id": 9,
+      "nama": "mie ago babat",
+      "harga": 25000,
+      "gambar": "asset/mieayamhotplate1.jpg",
+      "keterangan": "Spesial Mie Ago Babat Kendali Rasa Original"
+    },
+    {
+      "id_jenis": "makanan",
+      "id": 10,
+      "nama": "mie ago tetelan",
+      "harga": 25000,
+      "gambar": "asset/mieayamhotplate1.jpg",
+      "keterangan": "Spesial Mie Ago Tetelan Kendali Rasa Original"
+    },
+    {
+      "id_jenis": "makanan",
+      "id": 11,
+      "nama": "mie ago hotplate + babat",
+      "harga": 25000,
+      "gambar": "asset/mieayamhotplate1.jpg",
+      "keterangan": "Spesial Mie Ago Hotplate + Babat Kendali Rasa Original"
+    },
+    {
+      "id_jenis": "makanan",
+      "id": 12,
+      "nama": "mie ago hotplate + tetelan",
+      "harga": 25000,
+      "gambar": "asset/mieayamhotplate1.jpg",
+      "keterangan": "Spesial Mie Ago Hotplate + Tetelan Kendali Rasa Original"
+    },
+    {
+      "id_jenis": "makanan",
+      "id": 13,
+      "nama": "mie ago bakso",
+      "harga": 17000,
+      "gambar": "asset/mieayamhotplate1.jpg",
+      "keterangan": "Spesial Mie Ago Bakso Kendali Rasa Original"
+    },
+    {
+      "id_jenis": "makanan",
+      "id": 14,
+      "nama": "bakso sarimi",
+      "harga": 18000,
+      "gambar": "asset/mieayambakso1.jpg",
+      "keterangan": "Spesial Bakso Sarimi Kendali Rasa Original"
+    },
+    {
+      "id_jenis": "makanan",
+      "id": 15,
+      "nama": "bakso kikil",
+      "harga": 23000,
+      "gambar": "asset/bakso1.jpg",
+      "keterangan": "Spesial Bakso Kikil Kendali Rasa Original"
+    },
+    {
+      "id_jenis": "makanan",
+      "id": 16,
+      "nama": "bakso tetelan",
+      "harga": 23000,
+      "gambar": "asset/bakso1.jpg",
+      "keterangan": "Spesial Bakso Tetelan Kendali Rasa Original"
+    },
+    {
+      "id_jenis": "makanan",
+      "id": 17,
+      "nama": "bakso babat",
+      "harga": 23000,
+      "gambar": "asset/bakso1.jpg",
+      "keterangan": "Spesial Bakso Babat Kendali Rasa Original"
+    },
+    {
+      "id_jenis": "makanan",
+      "id": 18,
+      "nama": "bakso sarimi babat",
+      "harga": 25000,
+      "gambar": "asset/bakso1.jpg",
+      "keterangan": "Spesial Bakso Sarimi Babat Kendali Rasa Original"
+    },
+    {
+      "id_jenis": "makanan",
+      "id": 19,
+      "nama": "bakso sarimi tetelan",
+      "harga": 25000,
+      "gambar": "asset/bakso1.jpg",
+      "keterangan": "Spesial Bakso Sarimi Tetelan Kendali Rasa Original"
+    },
+    {
+      "id_jenis": "makanan",
+      "id": 20,
+      "nama": "bakso sarimi kikil",
+      "harga": 25000,
+      "gambar": "asset/bakso1.jpg",
+      "keterangan": "Spesial Bakso Sarimi Kikil Kendali Rasa Original"
+    }
+  ],
+  "minuman": [
+    {
+      "id_jenis": "minuman",
+      "id": 0,
+      "nama": "es teh",
+      "harga": 3000,
+      "gambar": "asset/esteh1.jpg",
+      "keterangan": "Spesial Es Teh Kendali Rasa Original"
+    },
+    {
+      "id_jenis": "minuman",
+      "id": 1,
+      "nama": "es jeruk",
+      "harga": 4000,
+      "gambar": "asset/esjeruk1.jpg",
+      "keterangan": "Spesial Es Jeruk Kendali Rasa Original"
+    },
+    {
+      "id_jenis": "minuman",
+      "id": 2,
+      "nama": "es limus",
+      "harga": 6000,
+      "gambar": "asset/eslimus1.jpg",
+      "keterangan": "Spesial Es Limus Kendali Rasa Original"
+    },
+    {
+      "id_jenis": "minuman",
+      "id": 3,
+      "nama": "es susu",
+      "harga": 5000,
+      "gambar": "asset/essusu1.jpg",
+      "keterangan": "Spesial Es Susu Kendali Rasa Original"
+    },
+    {
+      "id_jenis": "minuman",
+      "id": 4,
+      "nama": "es susu soda",
+      "harga": 7000,
+      "gambar": "asset/essususoda1.jpg",
+      "keterangan": "Spesial Es Susu Kendali Rasa Original"
+    }
+  ]
+}
